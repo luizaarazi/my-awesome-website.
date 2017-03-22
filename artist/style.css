@@ -1,0 +1,120 @@
+body {
+    
+     background-color:gray;
+     text-align: center;
+}
+
+h1 {
+    color: #c9c622;
+}
+
+p {
+    color:black;
+}
+
+#rihanna {
+    background-color:pink;
+}
+
+#lil-uzi {
+    background-color:black;
+}
+
+p {
+    color:#7c1f2d;
+}
+
+h2 {
+    color:gray;
+}
+
+#adrian {
+    background-color:pink:
+}
+
+#queen {
+    background-color:black;
+}
+
+#drake {
+    background-color: black;
+}
+
+#kanyewest {
+    background-color:black;
+}
+
+#jlo {
+    background-color:pink;
+}
+
+p {
+    margin: 0 25%;
+    background-color:white;
+    border-radius: 25px;
+    padding: 25px;
+    
+}
+
+h1:hover {
+    color:red;
+}
+
+h2:hover {
+    color:green;
+}
+
+p:hover {
+    color:black;
+}
+#onerepublic {
+    background-color:pink;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+#ladygaga {
+    background-color:black;
+}
+
+nav {
+    font-family: 'Cinzel', serif;
+}
+
+nav a{
+    color:black;
+    text-decoration: none
+    
+}
+.up {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0 15px 15px 0;
+    border-radius: 5%;
+    width:60px;
+    height:60px;
+    background: #FFF;
+    border:3px solid #000;
+    cursor:pointer;
+    color:#000;
+    text-decoration:none;
+    text-align: center;
+    padding-top: 15px;
+    transition:all 0.3s ease-in-out;
+}
+.up:hover {
+    color: #FFF;
+    background-color #000;
+    border: 3px solid #FFF;
+}
